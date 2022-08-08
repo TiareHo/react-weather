@@ -35,7 +35,7 @@ export default function Weather(props) {
           <li> Humidity : {humidity}%</li>
           <li> Wind: {Math.round(wind)} kph</li>
           <li>
-            <img src={icon} alt="Weather image" />
+            <img src={icon} alt="Weather emoji" />
           </li>
         </ul>
       </div>

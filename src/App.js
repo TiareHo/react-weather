@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import SearchForm from "./SearchForm";
 
@@ -8,7 +8,7 @@ function App() {
       <h1>Weather Report App</h1>
       
       <SearchForm />
-      <p>Coded using React in CodeSandbox</p>
+      <p>Coded by Tiare using React + open-sourced via GitHub</p>
     </div>
   );
 }
